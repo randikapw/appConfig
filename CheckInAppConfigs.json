@@ -1,5 +1,5 @@
 {
-   "MinimumSuportedVersion":"4.1.8",
+   "MinimumSuportedVersion":"4.0.0",
    "LatestAppVersion":"4.1.8",
    "UpgradeMethod":"0",
    "AuthenticatorURL":{
