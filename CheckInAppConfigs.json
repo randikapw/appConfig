@@ -1,5 +1,5 @@
 {
-   "MinimumSuportedVersion":"4.3.1",
+   "MinimumSuportedVersion":"4.0.1",
    "LatestAppVersion":"4.2.0",
    "UpgradeMethod":"0",
    "AuthenticatorURL":{
@@ -8,7 +8,7 @@
    },
    "CheckInURL":{
       "Android":"https://play.google.com/store/apps/details?id=com.solution.eapp.srilankangazette",
-      "Ios":"https://itunes.apple.com/us/app/microsoft-authenticator/id983156458?mt=8"
+      "Ios":"https://itunes.apple.com/us/app/twitter/id333903271?mt=8"
    },
    "UpdateMessage":{
       "Message":"Now we can filter project at task screen using filter project button (heart shaped button at top left). This is helpful to disply only the project you are woking in these days.",
